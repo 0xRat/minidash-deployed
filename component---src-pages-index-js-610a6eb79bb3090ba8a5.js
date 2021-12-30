@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[678],{7704:function(e,t,a){a.r(t);var r=a(7294),l=(a(5444),a(8258)),n=a(6179);t.default=function(){return r.createElement(l.Z,null,r.createElement(n.Z,{title:"Home"}),r.createElement(Box,{header:!0},r.createElement("h1",null,"Set eth address")))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-610a6eb79bb3090ba8a5.js.map

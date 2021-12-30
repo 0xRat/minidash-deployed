@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[33],{308:function(e,t,a){a.r(t);var l=a(7294),n=a(5444),r=a(776),u=a(6179);t.default=function(){return l.createElement(r.Z,null,l.createElement(u.Z,{title:"stats"}),l.createElement("p",null,"(。_。)"),l.createElement(n.Link,{to:"/"},"back"))}}}]);
-//# sourceMappingURL=component---src-pages-stats-js-5866ea469ca5fd8f865e.js.map
